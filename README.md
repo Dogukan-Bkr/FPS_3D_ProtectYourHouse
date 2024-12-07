@@ -1,4 +1,4 @@
-# FPS 3D ProtectYourHome (Turkish)
+# FPS 3D ProtectYourHome (TURKISH)
 - 3D oyun geliştirme ve temel oyun tasarımı mantığını öğrenmek için geliştirdiğim bir proje. 
  Bu proje, bir Udemy kursu kapsamında geliştirdiğim ve 3D oyun geliştirme konusundaki temel kavramları öğrenmeyi hedeflediğim bir çalışmadır. Bu süreçte aşağıdaki konuları deneyimleme ve anlama fırsatı buldum:  
 - 3D Oyun Oluşturma: Sıfırdan çalışabilir bir 3D oyun geliştirme.  
@@ -17,7 +17,7 @@ Bu proje sayesinde 3D oyun geliştirme süreçlerine dair temel bilgileri öğre
 
 Bu proje, 3D oyun geliştirme ve oyun mekanikleri oluşturma konularında önemli deneyimler kazanmama yardımcı oldu.
 
-# FPS 3D ProtectYourHome (English)
+# FPS 3D ProtectYourHome (ENGLISH)
 - A project I developed to learn 3D game development and the fundamentals of game design. 
 This project was created as part of a Udemy course to help me understand the key concepts of 3D game development. During the process, I had the opportunity to explore and grasp the following concepts:  
 - 3D Game Creation: Developing a fully functional 3D game from scratch.  
@@ -41,7 +41,7 @@ This project allowed me to gain practical experience in 3D game development and 
 # MAP
 ![Map](https://github.com/user-attachments/assets/e57bb991-0623-4fc7-be4c-52ae250db605)
 
-#IN GAME
+# IN GAME
 ![InGame1](https://github.com/user-attachments/assets/8f1b0a86-15c8-4ee0-9239-e168efea9456)
 
 ![InGame2](https://github.com/user-attachments/assets/2e9d8954-c3c0-47d3-9023-bcd714af1ea6)
